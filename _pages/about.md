@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ibrahim OZTURK"
+title: "Asst. Prof. Ibrahim OZTURK"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
