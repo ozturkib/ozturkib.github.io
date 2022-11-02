@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "EEM 405 Microprocessors"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate Course"
+permalink: /teaching/2022-autumn-teaching-microprocessors
+venue: "Korkut Ata University, Electrical and Electronics Engineering"
+date: 2022
+location: "Osmaniye, TR"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a description of a teaching experience. Please visit [the course page](http://oku.ozturkibrahim.com/Microprocessors.php).
 
-Heading 1
+...SOON...
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+...SOON...
